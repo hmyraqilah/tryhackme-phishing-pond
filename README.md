@@ -41,7 +41,7 @@ Each email was classified based on these observations.
 ![Email Analysis Example](https://github.com/hmyraqilah/tryhackme-phishing-pond/blob/c7064f8e2a33f2bff5385ac5cb57e5a479541ca0/Email_Analysis_example1.png)
 This email is identified as a phishing attempt because the link uses a deceptive domain designed to mimic a legitimate payment portal.
 
-![Email Analysis Example](screenshots/email_example2.png)
+![Email Analysis Example](https://github.com/hmyraqilah/tryhackme-phishing-pond/blob/6770a905ec70412f65a17f98c5954d549de191ad/Email_Analysis_Example2.png)
 This email is classified as a phishing attempt as it includes a malicious attachment and instructs the user to enable macros which is a common attack technique. 
 
 ![Email Analysis Example](screenshots/email_example2.png)
