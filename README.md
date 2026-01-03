@@ -39,19 +39,19 @@ The tasks in this room involve analyzing multiple email examples provided by the
 Each email was classified based on these observations.
 
 ![Email Analysis Example](https://github.com/hmyraqilah/tryhackme-phishing-pond/blob/c7064f8e2a33f2bff5385ac5cb57e5a479541ca0/Email_Analysis_example1.png)
-This email is identified as a phishing attempt because the link uses a deceptive domain designed to mimic a legitimate payment portal.
+- This email is identified as a phishing attempt because the link uses a deceptive domain designed to mimic a legitimate payment portal.
 
 ![Email Analysis Example](https://github.com/hmyraqilah/tryhackme-phishing-pond/blob/6770a905ec70412f65a17f98c5954d549de191ad/Email_Analysis_Example2.png)
-This email is classified as a phishing attempt as it includes a malicious attachment and instructs the user to enable macros which is a common attack technique. 
+- This email is classified as a phishing attempt as it includes a malicious attachment and instructs the user to enable macros which is a common attack technique. 
 
 ![Email Analysis Example](https://github.com/hmyraqilah/tryhackme-phishing-pond/blob/ddef30fff8daccdf040ea0ce781afaa6448d5127/Email_Analysis_example3.png)
-This is identified as a phishing email because it contains a link that directs users to a credential-collecting page. 
+- This is identified as a phishing email because it contains a link that directs users to a credential-collecting page. 
 
 ## 6. Results
 All tasks in the Phishing Pond room were completed successfully. Each email scenario was analyzed, and phishing attempts were accurately identified based on common social engineering indicators.
 This exercise demonstrated how phishing emails can appear convincing and how careful inspection of message details can prevent users from falling victim to such attacks.
 
-![Email Analysis Example]()
+![Email Analysis Example](https://github.com/hmyraqilah/tryhackme-phishing-pond/blob/20990335ccf14c45fb6239787729f7ede9cf6206/Phishing_Pond_Success.png)
 
 ## 7. Key Learnings
 Several key learning outcomes were achieved after completing the game and its associated challenges. These key learnings include the following:
