@@ -38,7 +38,14 @@ The tasks in this room involve analyzing multiple email examples provided by the
 
 Each email was classified based on these observations.
 
-![Email Analysis Example](screenshots/email_example.png)
+![Email Analysis Example](screenshots/email_example1.png)
+This email is identified as a phishing attempt because the link uses a deceptive domain designed to mimic a legitimate payment portal.
+
+![Email Analysis Example](screenshots/email_example2.png)
+This email is classified as a phishing attempt as it includes a malicious attachment and instructs the user to enable macros which is a common attack technique. 
+
+![Email Analysis Example](screenshots/email_example2.png)
+This is identified as a phishing email because it contains a link that directs users to a credential-collecting page. 
 
 ## 6. Results
 All tasks in the Phishing Pond room were completed successfully. Each email scenario was analyzed, and phishing attempts were accurately identified based on common social engineering indicators.
