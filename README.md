@@ -38,7 +38,7 @@ The tasks in this room involve analyzing multiple email examples provided by the
 
 Each email was classified based on these observations.
 
-![Email Analysis Example](screenshots/email_example1.png)
+![Email Analysis Example](https://github.com/hmyraqilah/tryhackme-phishing-pond/blob/c7064f8e2a33f2bff5385ac5cb57e5a479541ca0/Email_Analysis_example1.png)
 This email is identified as a phishing attempt because the link uses a deceptive domain designed to mimic a legitimate payment portal.
 
 ![Email Analysis Example](screenshots/email_example2.png)
