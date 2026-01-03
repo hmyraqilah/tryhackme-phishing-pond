@@ -62,5 +62,5 @@ The Phishing Pond room provided valuable insights into how phishing attacks are 
   https://tryhackme.com/room/phishingpond
 
 - Consumer Advice - How To Recognize and Avoid Phishing Scams
-  https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
+- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
 
